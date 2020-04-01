@@ -14,7 +14,7 @@ For more details follow the documentation: https://scrapy.org/
 ### `scrapy crawl post`
 This command will crawl the given website.
 
-### `scrapy crawl -o post.json`
+### `scrapy crawl post -o post.json`
 This will output the file in the JSON format.
 If you want to output as .csv you can replace .json with .csv in the above command.
 
