@@ -2,12 +2,12 @@
 Web scrapping with Scrapy.py
 
 ## To run the project:
-Run the project in Linux :
+Run the project on Linux :
 
 ### Note: To run the project on different OS, follow the link for detail: https://docs.scrapy.org/en/latest/intro/install.html#platform-specific-installation-notes
 
 ### `pip install scrapy`
-This will install scrapy in your machine.
+This will install scrapy on your machine.
 
 For more details follow the documentation: https://scrapy.org/
 
